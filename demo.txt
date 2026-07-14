@@ -1,1 +1,4 @@
 this my new file
+hi
+hellow
+bye
